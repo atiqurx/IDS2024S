@@ -25,7 +25,8 @@
 25. B
 26. C with classes
 27. Fortran > Matlab. ABC > Python
-28. ?
+28. Logarithms are usually used to calculate exponents. log 10^2 = log 10 + log 10 = 1 + 1 = 2.  
 29. 2.77e15  
-30. Magnetic tapes
-31. 
+30. Magnetic tapes. 20+ years.  
+31. Calculator  
+32.  see pdf
