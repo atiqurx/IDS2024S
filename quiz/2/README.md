@@ -17,4 +17,7 @@
 17. Fortran
 18. Momory Unit, Control Unit, Logic Unit  -
 19. ATM
-20. 
+20. Fortran, COBOL, B, C++, Java, Python
+21. A) Machine Language. B) yes, it needs an assembler
+22. A) Fortran. B) 50s
+23. A) Assembly Language. B) 
